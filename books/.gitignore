@@ -1,8 +1,0 @@
-/.gradle/
-/build/
-/bin/
-.classpath
-.project
-.class
-*.jar
-!gradle/wrapper/gradle-wrapper.jar
